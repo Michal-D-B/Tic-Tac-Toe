@@ -83,7 +83,3 @@ p_order = not p_order
 - Add a computer opponent (a random-move AI, or an unbeatable minimax version).
 - Track wins across multiple games with a running scoreboard.
 - Add player names and a colored board.
-
-## License
-
-Free to use and modify. Add a license of your choice (MIT is a popular option for small projects).
